@@ -20,7 +20,7 @@ func main() {
 
     // Print function is used to
     // display output in the same line
-    fmt.Print("The result is: ")
+    fmt.Print("The result is: 444444")
 
     // Addition of two string
     fmt.Println(first + second)
