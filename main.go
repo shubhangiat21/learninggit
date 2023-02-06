@@ -10,7 +10,7 @@ func main() {
     fmt.Println("Enter the first number: ")
 
     // var then variable name then variable type
-    var first int
+    var first float64
 
     // Taking input from user
     fmt.Scanln(&first)
